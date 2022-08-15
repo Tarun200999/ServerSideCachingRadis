@@ -1,3 +1,3 @@
-# ServerSideCachingRadis
+# ServerSideCachingRedis
 
-1. Install Radis on Machine ( I am used Linux Machine ) 
+1. Install Redis on Machine ( I am used Linux Machine )
